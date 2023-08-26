@@ -1,0 +1,31 @@
+.yazi{
+background-color: rgba(0, 0, 0, 0.30);
+
+}
+
+.sekiller{
+background-size: contain;
+background-position: center;
+height: 600px;
+}
+.container{
+background-size: cover;
+background-position: center;
+
+}
+
+body,html{
+height: 100%;
+
+}
+
+body{
+background-color: rgba(190, 190, 190, 0.285);
+
+}
+
+
+
+nav{
+background-color: rgba(255, 255, 255, 0.301);
+}
